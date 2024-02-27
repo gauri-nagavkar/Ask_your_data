@@ -1,0 +1,4 @@
+pdfplumber==0.5.28
+openai==0.10.2
+mysql-connector-python==8.0.23
+python-dotenv==0.19.0
