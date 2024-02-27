@@ -1,0 +1,61 @@
+Glucose Fasting
+Blood Urea Nitrogen
+Creatinine
+Uric Acid
+Calcium
+Phosphorous
+Sodium
+Potassium
+Chloride
+Bilirubin-Total
+Bilirubin-Direct
+Bilirubin-Indirect
+Total Protein
+Albumin
+Globulin
+A/G Ratio
+SGPT (ALT)
+SGOT (AST)
+Haemoglobin
+Erythrocyte Count
+PCV (Packed Cell Volume)
+MCV (Mean Corpuscular Volume)
+MCH (Mean Corpuscular Hb)
+MCHC (Mean Corpuscular Hb Concn.)
+RDW (Red Cell Distribution Width)
+Total Leucocytes (WBC) count
+Absolute Neutrophils Count
+Absolute Lymphocyte Count
+Absolute Monocyte Count
+Absolute Eosinophil Count
+Absolute Basophil Count
+Neutrophils
+Lymphocytes
+Monocytes
+Eosinophils
+Basophils
+Platelet count
+MPV (Mean Platelet Volume)
+PCT ( Platelet crit)
+PDW (Platelet Distribution Width)
+ESR - Erythrocyte Sedimentation Rate
+HbA1C- Glycated Haemoglobin
+Estimated Average Glucose (eAG)
+Cholesterol-Total
+Triglycerides level
+HDL Cholesterol
+Non HDL Cholesterol
+LDL Cholesterol
+VLDL Cholesterol
+LDL/HDL RATIO
+CHOL/HDL RATIO
+Alkaline Phosphatase
+Gamma GT (GGTP)
+LDH-Lactate Dehydrogenase
+CPK-Creatinine Phospho Kinase
+Vitamin B12 level
+TSH(Ultrasensitive)
+Free T4
+Free T3
+25 Hydroxy (OH) Vit D
+AMH Mullerian Inhibiting Substance
