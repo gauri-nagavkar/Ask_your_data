@@ -133,12 +133,13 @@ def insert_data_into_database(data, Name, Location, Test_ID):
             conn.close()
 
 def main():
+    pdf_path = input("What's the path to your PDF file?: ")
     Name = input("What's the patient's name?: ")
     Location = input("What's the Location of tests?: ")
     Test_ID = input("What's the Test ID?: ")
     tests_of_interest = read_tests_of_interest()
     mapping = read_data_mapping()
-    pdf_text = extract_text_from_pdf("Health_summary.PDF")
+    pdf_text = extract_text_from_pdf(pdf_path)
     client = initialize_openai_client()
     extracted_values = extract_values_with_openai(client, pdf_text, tests_of_interest)
     json_data = parse_json_from_response(extracted_values)
